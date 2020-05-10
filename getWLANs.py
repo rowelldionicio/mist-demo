@@ -1,5 +1,6 @@
 """
 Written by Rowell Dionicio (@rowelldionicio)
+https://rowelldionicio.com
 Created on: May 8, 2020
 
 Description: This Python module is for demo purposes of parsing through JSON.
