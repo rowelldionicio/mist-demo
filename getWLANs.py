@@ -5,6 +5,7 @@ Created on: May 8, 2020
 Description: This Python module is for demo purposes of parsing through JSON.
 Purpose is to get a list of SSIDs from the Mist cloud, iterate through that list,
 and output the SSIDs to screen.
+
 """
 
 import requests
